@@ -1,4 +1,6 @@
-# tracker
+# Expense tracker app in flutter
+Youtube link for demo of the app:
+https://youtube.com/shorts/jslrba1zFRc
 
 A new Flutter project.
 
